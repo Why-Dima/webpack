@@ -1,0 +1,9 @@
+{
+    "contact": [
+      { "id": 1, "name": "Jion", "num": "12343242", "mail": "hdfjahfa" },
+      { "id": 2, "name": "Sara", "num": "23432421", "mail": "hdfjahfa" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ]
+  }
